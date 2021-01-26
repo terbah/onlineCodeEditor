@@ -15,4 +15,4 @@ yarn start
 
 ### UI
 
-![ui](/ui.png)
+![UI](/UI.PNG)
